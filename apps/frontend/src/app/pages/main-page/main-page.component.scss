@@ -1,0 +1,16 @@
+:host {
+  @apply selection:bg-stone-900 selection:text-white
+}
+
+h1 {
+  @apply text-6xl font-serif font-medium leading-tight
+}
+
+h2 {
+  @apply text-5xl font-serif font-medium
+}
+
+h3 {
+  @apply text-lg font-semibold font-serif
+}
+
